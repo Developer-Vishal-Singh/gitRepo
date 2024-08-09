@@ -1,4 +1,4 @@
 # gitRepo
 This is demo Repository
 
-Author : "Vishal Singh"
+Author : Programmer ("Vishal Singh");
